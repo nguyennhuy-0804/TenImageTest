@@ -1,0 +1,35 @@
+{
+  "id": "2026-tenimagetest",
+  "name": "TenImageTest",
+  "description": "Template created from project: TenImageTest",
+  "author": "User",
+  "year": "2026",
+  "category": "Custom",
+  "tags": [
+    "custom",
+    "user-created"
+  ],
+  "createdAt": "2026-01-18T19:14:10.252Z",
+  "config": {
+    "title": "TenImageTest",
+    "description": "This survey helps us understand user preferences and opinions.",
+    "logo": "",
+    "logoPosition": "right",
+    "settings": {
+      "showQuestionNumbers": "off",
+      "showProgressBar": "aboveheader",
+      "progressBarType": "questions",
+      "autoGrowComment": true,
+      "showPreviewBeforeComplete": "showAllQuestions"
+    },
+    "images": [],
+    "pages": [
+      {
+        "name": "page1",
+        "title": "Survey Questions",
+        "description": "Please answer the following questions.",
+        "elements": []
+      }
+    ]
+  }
+}

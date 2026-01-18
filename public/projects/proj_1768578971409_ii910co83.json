@@ -1,0 +1,510 @@
+{
+  "project": {
+    "id": "proj_1768578971409_ii910co83",
+    "name": "Image Project 1",
+    "description": "",
+    "createdAt": "2026-01-16T15:56:11.409Z",
+    "lastModified": "2026-01-16T15:56:11.409Z",
+    "templateId": null,
+    "supabaseConfig": null,
+    "imageDatasetConfig": {
+      "enabled": true,
+      "huggingFaceToken": "",
+      "datasetName": "Zennie0804/Tong_hop_DAC_B3",
+      "supabaseUrl": "https://jdqwzctwuecmgkvihkek.supabase.co",
+      "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpkcXd6Y3R3dWVjbWdrdmloa2VrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2ODU3NDk5NCwiZXhwIjoyMDg0MTUwOTk0fQ.6Kw8OhGR-KqT8sYOY-DsR8MV0VllKd1EFBcPgcieVwI",
+      "datasetInfo": {
+        "id": "Zennie0804/Tong_hop_DAC_B3",
+        "description": "Dataset accessed via datasets-server API",
+        "author": "Zennie0804",
+        "lastModified": "2026-01-18T17:35:44.639Z",
+        "private": false,
+        "imageCount": 30,
+        "dataset_info": {
+          "default": {
+            "description": "",
+            "citation": "",
+            "homepage": "",
+            "license": "",
+            "features": {
+              "image": {
+                "_type": "Image"
+              }
+            },
+            "builder_name": "imagefolder",
+            "dataset_name": "tong_hop_dac_b3",
+            "config_name": "default",
+            "version": {
+              "version_str": "0.0.0",
+              "major": 0,
+              "minor": 0,
+              "patch": 0
+            },
+            "splits": {
+              "train": {
+                "name": "train",
+                "num_bytes": 76794944,
+                "num_examples": 30,
+                "dataset_name": "tong_hop_dac_b3"
+              }
+            },
+            "size_in_bytes": 153589413
+          }
+        }
+      },
+      "supabaseConnectionStatus": {
+        "connected": true,
+        "projectInfo": {
+          "url": "https://jdqwzctwuecmgkvihkek.supabase.co",
+          "bucketsCount": 1,
+          "surveyBucketExists": true,
+          "buckets": [
+            "survey-images"
+          ]
+        },
+        "lastTested": "2026-01-18T17:57:39.107Z"
+      }
+    },
+    "preloadedImages": [
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000001.jpg",
+        "name": "image_000001.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000002.jpg",
+        "name": "image_000002.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000003.jpg",
+        "name": "image_000003.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000004.jpg",
+        "name": "image_000004.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000005.jpg",
+        "name": "image_000005.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000006.jpg",
+        "name": "image_000006.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000007.jpg",
+        "name": "image_000007.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000008.jpg",
+        "name": "image_000008.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000009.jpg",
+        "name": "image_000009.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000010.jpg",
+        "name": "image_000010.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000011.jpg",
+        "name": "image_000011.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000012.jpg",
+        "name": "image_000012.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000013.jpg",
+        "name": "image_000013.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000014.jpg",
+        "name": "image_000014.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000015.jpg",
+        "name": "image_000015.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000016.jpg",
+        "name": "image_000016.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000017.jpg",
+        "name": "image_000017.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000018.jpg",
+        "name": "image_000018.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000019.jpg",
+        "name": "image_000019.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000020.jpg",
+        "name": "image_000020.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000021.jpg",
+        "name": "image_000021.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000022.jpg",
+        "name": "image_000022.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000023.jpg",
+        "name": "image_000023.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000024.jpg",
+        "name": "image_000024.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000025.jpg",
+        "name": "image_000025.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000026.jpg",
+        "name": "image_000026.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000027.jpg",
+        "name": "image_000027.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000028.jpg",
+        "name": "image_000028.jpg"
+      },
+      {
+        "url": "https://jdqwzctwuecmgkvihkek.supabase.co/storage/v1/object/public/survey-images/Zennie0804_Tong_hop_DAC_B3/image_000029.jpg",
+        "name": "image_000029.jpg"
+      }
+    ],
+    "preloadedAt": "2026-01-18T17:57:48.218Z",
+    "preloadedSource": "supabase",
+    "supabaseBucket": "survey-images",
+    "serverSetupComplete": true,
+    "serverSetupCompletedAt": "2026-01-18T17:58:44.804Z"
+  },
+  "surveyConfig": {
+    "title": "Place Pulse",
+    "description": "",
+    "logo": "data:image/webp;base64,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",
+    "logoPosition": "top",
+    "settings": {
+      "showQuestionNumbers": "off",
+      "showProgressBar": "aboveheader",
+      "progressBarType": "questions",
+      "autoGrowComment": true,
+      "showPreviewBeforeComplete": "showAllQuestions"
+    },
+    "images": [],
+    "pages": [
+      {
+        "name": "page1",
+        "title": "Sống động",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768587681205",
+            "title": "Theo bạn, nơi nào trông \"Sống động\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "multiSelect": false,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768587794357",
+            "title": "Theo bạn, nơi nào trông \"Sống động\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768587827876",
+            "title": "Theo bạn, nơi nào trông \"Sống động\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768587853455",
+            "title": "Theo bạn, nơi nào trông \"Sống động\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      },
+      {
+        "name": "page_1768587494801",
+        "title": "An Toàn",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768587931820",
+            "title": "Theo bạn, nơi nào trông \"An Toàn\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588013889",
+            "title": "Theo bạn, nơi nào trông \"An Toàn\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588039612",
+            "title": "Theo bạn, nơi nào trông \"An Toàn\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588058459",
+            "title": "Theo bạn, nơi nào trông \"An Toàn\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      },
+      {
+        "name": "page_1768587580872",
+        "title": "Đẹp",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768588103208",
+            "title": "Theo bạn, nơi nào trông \"Đẹp\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588147793",
+            "title": "Theo bạn, nơi nào trông \"Đẹp\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588166934",
+            "title": "Theo bạn, nơi nào trông \"Đẹp\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588183133",
+            "title": "Theo bạn, nơi nào trông \"Đẹp\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      },
+      {
+        "name": "page_1768587582230",
+        "title": "Sang Trọng",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768588327555",
+            "title": "Theo bạn, nơi nào trông \"Sang trọng\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588347791",
+            "title": "Theo bạn, nơi nào trông \"Sang trọng\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588364328",
+            "title": "Theo bạn, nơi nào trông \"Sang trọng\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588380214",
+            "title": "Theo bạn, nơi nào trông \"Sang trọng\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      },
+      {
+        "name": "page_1768587583963",
+        "title": "Buồn Bã",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768588423090",
+            "title": "Theo bạn, nơi nào trông \"Buồn bã\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588446639",
+            "title": "Theo bạn, nơi nào trông \"Buồn bã\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588464975",
+            "title": "Theo bạn, nơi nào trông \"Buồn bã\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588480920",
+            "title": "Theo bạn, nơi nào trông \"Buồn bã\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      },
+      {
+        "name": "page_1768588499715",
+        "title": "Nhàm Chán",
+        "description": "",
+        "elements": [
+          {
+            "type": "imagepicker",
+            "name": "question_1768588520684",
+            "title": "Theo bạn, nơi nào trông \"Nhàm chán\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588540021",
+            "title": "Theo bạn, nơi nào trông \"Nhàm chán\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588558199",
+            "title": "Theo bạn, nơi nào trông \"Nhàm chán\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          },
+          {
+            "type": "imagepicker",
+            "name": "question_1768588578525",
+            "title": "Theo bạn, nơi nào trông \"Nhàm chán\" hơn?",
+            "isRequired": true,
+            "imageCount": 2,
+            "imageSelectionMode": "huggingface_random",
+            "randomImageSelection": true,
+            "imageFit": "cover"
+          }
+        ]
+      }
+    ],
+    "theme": {
+      "primaryColor": "#ff5722",
+      "primaryLight": "#ff8a65",
+      "primaryDark": "#d84315",
+      "secondaryColor": "#ffc107",
+      "accentColor": "#ff9800",
+      "successColor": "#4caf50",
+      "backgroundColor": "#fff8f0",
+      "cardBackground": "#ffffff",
+      "headerBackground": "#ffe0b2",
+      "textColor": "#3e2723",
+      "secondaryText": "#6d4c41",
+      "disabledText": "#bcaaa4",
+      "borderColor": "#d7ccc8",
+      "focusBorder": "#ff5722"
+    }
+  },
+  "supabaseConfig": null,
+  "savedAt": "2026-01-18T18:38:44.377Z",
+  "version": "2.0"
+}
